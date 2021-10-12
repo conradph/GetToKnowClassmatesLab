@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.exe
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.deps.json
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.runtimeconfig.json
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.dll
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesLab.pdb
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.dll
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.pdb
+C:\Users\PConrad\source\repos\GetToKnowClassmatesLab\GetToKnowClassmatesLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesLab.genruntimeconfig.cache
